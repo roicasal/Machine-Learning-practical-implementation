@@ -31,4 +31,4 @@ The main Jupyter Notebook (`.ipynb`) explores and compares several architectures
 * `XandreAlvarezGonzalez_RoiCasalBlanco.ipynb`: Jupyter Notebook containing the full workflow (data import, cleaning, training, and evaluation).
 
 ---
-*This project was completed as part of the [Your Degree, e.g., Physics/Biology] degree program at the University of Santiago de Compostela.*
+*This project was completed as part of the Biophysics signature of the Physics degree program at the University of Santiago de Compostela.*
