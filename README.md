@@ -2,7 +2,7 @@
 
 This repository contains the practical project developed for the **Biophysics** course, focusing on the implementation and comparison of different supervised learning algorithms for data classification and prediction.
 
-## 👥 Authors
+##  Authors
 * **Xandre Álvarez González**
 * **Roi Casal Blanco**
 
